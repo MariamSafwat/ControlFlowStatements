@@ -6,6 +6,7 @@ class BreakDemo {
         int searchfor = 12;
 
         int i;
+
         boolean foundIt = false;
 
         for (i = 0; i < arrayOfInts.length; i++) {
